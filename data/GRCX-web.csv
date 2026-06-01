@@ -1,0 +1,865 @@
+ID,Testrail Link,Title,Automatability,Automation Assignee,Vendor Assignee,Automation Complexity,Automation Status,Capability,Complexity,Created On,Priority,Product,Status,Suite,Testing Phase,Testing Type,Test Type,Platform,Updated By,Updated On
+C1138121,https://myntfintech.testrail.io/index.php?/cases/view/1138121,IS-ABO-WEB-1110[Bulk Adjustment] [13 COUNTRIES] USER to PARTNER. Check wallet movement,Automatable,Stratpoint,Stratpoint,High,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138123,https://myntfintech.testrail.io/index.php?/cases/view/1138123,IS-ABO-WEB-1112[Bulk Adjustment] [13 COUNTRIES] PARTNER to USER. Check wallet movement,Automatable,Stratpoint,Stratpoint,High,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138125,https://myntfintech.testrail.io/index.php?/cases/view/1138125,IS-ABO-WEB-1114[Bulk Adjustment - GI to GI] [13 COUNTRIES] USER to USER. Check wallet movement,Automatable,Stratpoint,Stratpoint,High,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138127,https://myntfintech.testrail.io/index.php?/cases/view/1138127,IS-ABO-WEB-1116[Bulk Adjustment - GI to LOCAL] [13 COUNTRIES] USER to USER. Check wallet movement,Automatable,Stratpoint,Stratpoint,High,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138173,https://myntfintech.testrail.io/index.php?/cases/view/1138173,IS-ABO-WEB-1141[BULK REFUND][Local] Verify if agent can Bulk Refund the Bills Payment Transaction of Local,Automatable,Stratpoint,Stratpoint,Medium,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138175,https://myntfintech.testrail.io/index.php?/cases/view/1138175,IS-ABO-WEB-1143[BULK REFUND][Local] Verify if agent can Bulk Refund the Retail Payment Transaction of Local,Automatable,Stratpoint,Stratpoint,Medium,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138181,https://myntfintech.testrail.io/index.php?/cases/view/1138181,IS-ABO-WEB-1149[Single REFUND][Local] Verify if agent can Single Refund the Retail Payment Transaction of Local,Automatable,Stratpoint,Stratpoint,Medium,,A+ Backoffice Portal (Buservice + GCBizadmin),High,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1138415,https://myntfintech.testrail.io/index.php?/cases/view/1138415,[IS-JAR-WEB-2873] [Multi-Profile Nomination][PARENT] Verify Parent's Newly Nominated mobtel should have Previous Mobile Number in Basic Information of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138416,https://myntfintech.testrail.io/index.php?/cases/view/1138416,"[IS-JAR-WEB-2874] [Multi-Profile Nomination][PARENT] Verify Parent's Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages: QA View, QA Result, Tracking, CRP Management and Acct. Maintenance",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138417,https://myntfintech.testrail.io/index.php?/cases/view/1138417,[IS-JAR-WEB-2875] [Multi-Profile Nomination][Random Child] Verify Not Yet Nominated mobtel should have Previous Mobile Number in Basic Information of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138418,https://myntfintech.testrail.io/index.php?/cases/view/1138418,[IS-JAR-WEB-2876] [Multi-Profile Nomination][Random Child] Verify Not Yet Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138420,https://myntfintech.testrail.io/index.php?/cases/view/1138420,"[IS-JAR-WEB-2878] [Multi-Profile Nomination][1st Child] Verify 1st Child's Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages: QA View, QA Result, Tracking, CRP Man. and Account Main.",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138422,https://myntfintech.testrail.io/index.php?/cases/view/1138422,[IS-JAR-WEB-2880] [Multi-Profile Nomination][Random Not Nominateed Profile] Verify Not Yet Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138424,https://myntfintech.testrail.io/index.php?/cases/view/1138424,[IS-JAR-WEB-2882] [Multi-Profile Nomination][2nd Child] Verify 2nd Child's Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138426,https://myntfintech.testrail.io/index.php?/cases/view/1138426,[IS-JAR-WEB-2884] [Multi-Profile Nomination][Random Not Nominateed Profile] Verify Not Yet Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138428,https://myntfintech.testrail.io/index.php?/cases/view/1138428,[IS-JAR-WEB-2886] [Multi-Profile Nomination][3rd Child] Verify 3rd Child's Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138430,https://myntfintech.testrail.io/index.php?/cases/view/1138430,[IS-JAR-WEB-2888] [Multi-Profile Nomination][Random Not Nominateed Profile] Verify Not Yet Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138432,https://myntfintech.testrail.io/index.php?/cases/view/1138432,[IS-JAR-WEB-2890] [Multi-Profile Nomination][Double Nomination in already Nominated Profile] Verify Already Nominated Mobtel to undergo nomination again should have Remarks on Mobtel Changes in Notes Tab of the following pages.,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138434,https://myntfintech.testrail.io/index.php?/cases/view/1138434,[IS-JAR-WEB-2892] [Multi-Profile Nomination][Random Not Nominateed Profile] Verify Not Yet Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138436,https://myntfintech.testrail.io/index.php?/cases/view/1138436,[IS-JAR-WEB-2894] [Multi-Profile Nomination][4th Child] Verify 4th Child's Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138438,https://myntfintech.testrail.io/index.php?/cases/view/1138438,[IS-JAR-WEB-2896] [Multi-Profile Nomination][Random Already Nominated] Verify Already Newly Nominated mobtel should have Remarks on Mobtel Changes in Notes Tab of the following pages:,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138442,https://myntfintech.testrail.io/index.php?/cases/view/1138442,"[IS-JAR-WEB-2900] [Multi-Profile Nomination][KYC LEVEL 1] Tracking, Verify Newly Nominated mobtel's Tracking Record, CRP KYC LEVEL 1 - APPLYING LEVEL 1 should not have Previous Mobile Number in Basic Information",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138443,https://myntfintech.testrail.io/index.php?/cases/view/1138443,"[IS-JAR-WEB-2901] [Multi-Profile Nomination][KYC LEVEL 3] Tracking, Verify Newly Nominated mobtel's Tracking Record, CRP KYC LEVEL 1 - APPLYING FOR LEVEL 3 should have Previous Mobile Number in Basic Information",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138444,https://myntfintech.testrail.io/index.php?/cases/view/1138444,[IS-JAR-WEB-2902] [Multi-Profile Nomination][Nominated] Verify on the jarvis database on accounts table that the customer mobtel will updated to newly nominated mobile.,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138446,https://myntfintech.testrail.io/index.php?/cases/view/1138446,[IS-JAR-WEB-2904] [Multi-Profile Nomination] Verify Old mobtel should not be searchable,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138464,https://myntfintech.testrail.io/index.php?/cases/view/1138464,[IS-JAR-WEB-2965][Unlink Device - Transaction History][2.2] Verify if there should only have a maximum of Ten () rows to be displayed under the Device History tab,Automatable,Stratpoint,Stratpoint,Low,Not Started,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138468,https://myntfintech.testrail.io/index.php?/cases/view/1138468,[IS-JAR-WEB-2973] [Device Management] Verify if will automatically select the DEVICE INFROMATION when user search a DIFFERENT mobile number even the selected tab is DEVICE HISTORY,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138469,https://myntfintech.testrail.io/index.php?/cases/view/1138469,[IS-JAR-WEB-2974] [Device Management] Verify if will automatically select the DEVICE INFROMATION when user search a SAME mobile number even the selected tab is DEVICE HISTORY,Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138491,https://myntfintech.testrail.io/index.php?/cases/view/1138491,"[IS-JAR-WEB-2931] [Success Link Device via App - AND] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138493,https://myntfintech.testrail.io/index.php?/cases/view/1138493,"[IS-JAR-WEB-2933] [Success Link Device via App - AND] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138495,https://myntfintech.testrail.io/index.php?/cases/view/1138495,"[IS-JAR-WEB-2935] [Success Link Device via App - iOS] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138497,https://myntfintech.testrail.io/index.php?/cases/view/1138497,"[IS-JAR-WEB-2937] [Success Link Device via App - iOS] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138500,https://myntfintech.testrail.io/index.php?/cases/view/1138500,"[IS-JAR-WEB-2940] [Success Link Device via Jarvis - AND] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138502,https://myntfintech.testrail.io/index.php?/cases/view/1138502,"[IS-JAR-WEB-2942] [Success Link Device via Jarvis - AND] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138505,https://myntfintech.testrail.io/index.php?/cases/view/1138505,"[IS-JAR-WEB-2945] [Success Link Device via Jarvis - iOS] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138507,https://myntfintech.testrail.io/index.php?/cases/view/1138507,"[IS-JAR-WEB-2947] [Success Link Device via Jarvis - iOS] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138510,https://myntfintech.testrail.io/index.php?/cases/view/1138510,"[IS-JAR-WEB-2950] [Success Link Device via API - AND] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138512,https://myntfintech.testrail.io/index.php?/cases/view/1138512,"[IS-JAR-WEB-2952] [Success Link Device via API - AND] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138515,https://myntfintech.testrail.io/index.php?/cases/view/1138515,"[IS-JAR-WEB-2955] [Success Link Device via API - iOS] After success Device Registration, registered device should display in Device Information tab",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138517,https://myntfintech.testrail.io/index.php?/cases/view/1138517,"[IS-JAR-WEB-2957] [Success Link Device via API - iOS] After success Device Registration, registered device should display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138472,https://myntfintech.testrail.io/index.php?/cases/view/1138472,"[IS-JAR-WEB-2908][Success Unlink Device via Jarvis - L3] Verify if after success unlink, unlink record will display in Device History",Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138474,https://myntfintech.testrail.io/index.php?/cases/view/1138474,"[IS-JAR-WEB-2910][Success Unlink Device via Jarvis - L3] Verify if after success unlink, unlink record will display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138478,https://myntfintech.testrail.io/index.php?/cases/view/1138478,"[IS-JAR-WEB-2914] [Success Unlink Device via Jarvis - L1] Verify if after success unlink, unlink record will display in Device History",Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138480,https://myntfintech.testrail.io/index.php?/cases/view/1138480,"[IS-JAR-WEB-2916] [Success Unlink Device via Jarvis - L1] Verify if after success unlink, unlink record will display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138483,https://myntfintech.testrail.io/index.php?/cases/view/1138483,"[IS-JAR-WEB-2919] [Success Unlink Device via App - L3] Verify if after success unlink, unlink record will display in Device History",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138485,https://myntfintech.testrail.io/index.php?/cases/view/1138485,"[IS-JAR-WEB-2921] [Success Unlink Device via App - L3] Verify if after success unlink, unlink record will display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138487,https://myntfintech.testrail.io/index.php?/cases/view/1138487,"[IS-JAR-WEB-2923] [Success Unlink Device via App - L1] Verify if after success unlink, unlink record will display in Device History",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138489,https://myntfintech.testrail.io/index.php?/cases/view/1138489,"[IS-JAR-WEB-2925] [Success Unlink Device via App - L1] Verify if after success unlink, unlink record will display in GetDeviceLogs API",Automatable,MYNT,Mynt,Low,,Device Linking,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,QA Automation 6,2/25/2026 6:58 AM
+C1138643,https://myntfintech.testrail.io/index.php?/cases/view/1138643,"[WEB] TRIBE01-118356-002 [MPIN New Feature = ON][Success Reset] Using 09, verify if 2nd pop-up notification will display If the Zendesk ticket number inputted in 1st pop-notification is valid and correct from the Zendesk DB",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138644,https://myntfintech.testrail.io/index.php?/cases/view/1138644,"[SMS] TRIBE01-118357-003 [MPIN New Feature = ON][Success Reset] Using 09, verify SUBMIT btn behavior on 2nd pop-up notification",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138652,https://myntfintech.testrail.io/index.php?/cases/view/1138652,"[WEB] TRIBE01-118361-027 [MPIN New Feature][Switch OFF] Using 09, verify SUBMIT btn behavior on MPIN Reset BAU notification",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138654,https://myntfintech.testrail.io/index.php?/cases/view/1138654,"[WEB] TRIBE01-118361-029 [MPIN New Feature][Switch OFF] Using 63-9, verify SUBMIT btn behavior on MPIN Reset BAU notification",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,"BE Regression
+BE Sanity",web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138656,https://myntfintech.testrail.io/index.php?/cases/view/1138656,"[WEB] TRIBE01-121500-031 [MPIN New Feature][Unsuccess Reset] Using 09, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that not match or linked to complainant Mobile Number",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138657,https://myntfintech.testrail.io/index.php?/cases/view/1138657,"[WEB] TRIBE01-121500-032 [MPIN New Feature][Unsuccess Reset] Using 63-9, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that not match or linked to complainant Mobile Number",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138658,https://myntfintech.testrail.io/index.php?/cases/view/1138658,"[WEB] TRIBE01-121501-033 [MPIN New Feature][Unsuccess Reset] Using 09, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that already closed",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138659,https://myntfintech.testrail.io/index.php?/cases/view/1138659,"[WEB] TRIBE01-121501-034 [MPIN New Feature][Unsuccess Reset] Using 63-9, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that already closed",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138660,https://myntfintech.testrail.io/index.php?/cases/view/1138660,"[WEB] TRIBE01-121501-035 [MPIN New Feature][Unsuccess Reset] Using 09, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that alreadytag as cust_confirmed_resolved in zendesk",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138661,https://myntfintech.testrail.io/index.php?/cases/view/1138661,"[WEB] TRIBE01-121501-036 [MPIN New Feature][Success Reset] Using 63-9, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that alreadytag as cust_confirmed_resolved in zendesk",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138662,https://myntfintech.testrail.io/index.php?/cases/view/1138662,"[WEB] TRIBE01-121501-037 [MPIN New Feature][Success Reset] Using 09, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that tagged as cust_not_resolved in zendesk",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138663,https://myntfintech.testrail.io/index.php?/cases/view/1138663,"[WEB] TRIBE01-121501-038 [MPIN New Feature][Unsuccess Reset] Using 63-9, verify SUBMIT btn behavior on 1st pop-up notification, if agent input a zendesk ticket number that tagged as cust_not_resolved in zendesk",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138664,https://myntfintech.testrail.io/index.php?/cases/view/1138664,"[WEB] TRIBE01-118352-039 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number with SPECIAL CHARACTER",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138665,https://myntfintech.testrail.io/index.php?/cases/view/1138665,"[WEB] TRIBE01-118352-040 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number with CHARACTER",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138666,https://myntfintech.testrail.io/index.php?/cases/view/1138666,"[WEB] TRIBE01-118352-041 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number with SPACE in between",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138667,https://myntfintech.testrail.io/index.php?/cases/view/1138667,"[WEB] TRIBE01-118352-042 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number with DECIMAL POINT",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138668,https://myntfintech.testrail.io/index.php?/cases/view/1138668,"[WEB] TRIBE01-118352-043 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number only value is SPECIAL CHARACTER",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138669,https://myntfintech.testrail.io/index.php?/cases/view/1138669,"[WEB] TRIBE01-118352-044 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, if agent input zendesk ticket number only value is CHARACTER",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138670,https://myntfintech.testrail.io/index.php?/cases/view/1138670,"[WEB] TRIBE01-118352-045 [Field Validation] Verify SUBMIT btn behavior on 1st pop-up notification, did not put any value in input field",Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C1138671,https://myntfintech.testrail.io/index.php?/cases/view/1138671,[WEB] TRIBE01-118352-046 [Field Validation] Validate error prompt message properties and elements,Automatable,MYNT,Mynt,Low,,MPIN Reset,Low,12/1/2025 5:01 AM,High,Operations/Internal Portals,New,TRIBE14 | GRCX,BE Regression,web,web,web,Kyarra Anne Layug,12/1/2025 5:01 AM
+C85779,https://myntfintech.testrail.io/index.php?/cases/view/85779,[GRC] [Sanity Testing] [CRP Management] [Maker] [Low Risk] Verify Handling after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:35 AM
+C85780,https://myntfintech.testrail.io/index.php?/cases/view/85780,[GRC] [Sanity Testing] [CRP Management] [Maker] [Low Risk] Verify Notification after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:35 AM
+C85781,https://myntfintech.testrail.io/index.php?/cases/view/85781,[GRC] [Sanity Testing] [CRP Management] [Maker] [Normal Risk] Verify Handling after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:35 AM
+C85782,https://myntfintech.testrail.io/index.php?/cases/view/85782,[GRC] [Sanity Testing] [CRP Management] [Maker] [Normal Risk] Verify Notification after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85783,https://myntfintech.testrail.io/index.php?/cases/view/85783,[GRC] [Sanity Testing] [CRP Management] [Maker] [High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85784,https://myntfintech.testrail.io/index.php?/cases/view/85784,[GRC] [Sanity Testing] [CRP Management] [Maker] [High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85785,https://myntfintech.testrail.io/index.php?/cases/view/85785,[GRC] [Sanity Testing] [CRP Management] [Maker] [Very High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85786,https://myntfintech.testrail.io/index.php?/cases/view/85786,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify if User can Approve Pending New CRP Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85787,https://myntfintech.testrail.io/index.php?/cases/view/85787,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify SMS Notification for Approved Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85788,https://myntfintech.testrail.io/index.php?/cases/view/85788,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify if User can Approve Pending Modify CRP Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85789,https://myntfintech.testrail.io/index.php?/cases/view/85789,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify SMS Notification for Approved Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85821,https://myntfintech.testrail.io/index.php?/cases/view/85821,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Create a KYC 9.1 CRP,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:36 AM
+C85822,https://myntfintech.testrail.io/index.php?/cases/view/85822,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify KYC 9.1 CRP Details in Queue Portal and Duplicate Suggestion will be displayed,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85823,https://myntfintech.testrail.io/index.php?/cases/view/85823,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify On-Going and Existing Application Details in Duplicate Suggestion Window,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85824,https://myntfintech.testrail.io/index.php?/cases/view/85824,[GRC] [Sanity Testing] [KYC9.1 to KYC9.1][KYC Leader] [Queue Portal] [Direct Link] Link KYC 9.1 to KYC 9.1,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85825,https://myntfintech.testrail.io/index.php?/cases/view/85825,"[GRC] [Sanity Testing] [KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify Newly Linked CRP Details in Tracking Page, QA View, QA Result, CRP Management and Account Maintenance",Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85826,https://myntfintech.testrail.io/index.php?/cases/view/85826,"[GRC] [Sanity Testing] [KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify if the details of Reference Tab and Wallet Tab of newly linked CRP in Tracking Page, QA View, QA Result, CRP Mngt and Acct. Maintenance",Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85832,https://myntfintech.testrail.io/index.php?/cases/view/85832,[GRC] [Sanity Testing] [MTC-TRO] Verify that User is able to Approve Change Wallet Status Request,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85833,https://myntfintech.testrail.io/index.php?/cases/view/85833,[GRC] [Sanity Testing] [Account Maintenance] [L1 Maker] Verify if User can Change Wallet Status of L3 Mobtel,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C85834,https://myntfintech.testrail.io/index.php?/cases/view/85834,[GRC] [Sanity Testing] [Team Leader] Verify that User is able to Approve Change Wallet Status Request,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,1/7/2025 3:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C170783,https://myntfintech.testrail.io/index.php?/cases/view/170783,"[BE][B2C Approver] Validate that in Queue In-App, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170784,https://myntfintech.testrail.io/index.php?/cases/view/170784,"[BE][B2C Approver] Validate that in Queue Portal, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170785,https://myntfintech.testrail.io/index.php?/cases/view/170785,"[BE][B2C Approver] Validate that in Queue GCash Jr, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170786,https://myntfintech.testrail.io/index.php?/cases/view/170786,"[BE][B2C Approver] Validate that in Queue International, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170793,https://myntfintech.testrail.io/index.php?/cases/view/170793,"[BE][B2C Approver] [Tracking]Verify that the application to ensure that if the first user is currently viewing it, the second user is unable to access it simultaneously.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170857,https://myntfintech.testrail.io/index.php?/cases/view/170857,"[BE][KYC Leader] Validate that in Queue In-App, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170858,https://myntfintech.testrail.io/index.php?/cases/view/170858,"[BE][KYC Leader] Validate that in Queue Portal, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170859,https://myntfintech.testrail.io/index.php?/cases/view/170859,"[BE][KYC Leader] Validate that in Queue GCash Jr, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C170860,https://myntfintech.testrail.io/index.php?/cases/view/170860,"[BE][KYC Leader] Validate that in Queue International, manual link is still visible",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,High,2/21/2025 3:38 PM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+BE Regression
+FE Sanity
+BE Sanity
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490761,https://myntfintech.testrail.io/index.php?/cases/view/490761,Verify if user can Create L1-L3 CRP with Low Risk Score,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490763,https://myntfintech.testrail.io/index.php?/cases/view/490763,Verify if user can Create L1-L3 CRP with Normal Risk Score,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490765,https://myntfintech.testrail.io/index.php?/cases/view/490765,Verify if user can Create L1-L3 CRP with High Risk Score,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,High,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490766,https://myntfintech.testrail.io/index.php?/cases/view/490766,Verify if user can view High Risk in Queue Portal,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Low,6/4/2025 6:17 AM,Low,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490767,https://myntfintech.testrail.io/index.php?/cases/view/490767,Verify if user can Create L1-L3 CRP with Very High Risk Score,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490768,https://myntfintech.testrail.io/index.php?/cases/view/490768,Verify if User can Approve Pending Application without editing the application form,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,High,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490794,https://myntfintech.testrail.io/index.php?/cases/view/490794,Execute multiple searches rapidly to check if the system handles concurrent requests without performance degradation.,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490817,https://myntfintech.testrail.io/index.php?/cases/view/490817,"Validate that in Queue Portal, Duplicate Suggestion is still visible",Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490826,https://myntfintech.testrail.io/index.php?/cases/view/490826,Verify that User able to Reset MPIN in Account Maintenance,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490828,https://myntfintech.testrail.io/index.php?/cases/view/490828,Validate that user able to downgrade L3 Local mobtel using CRP management,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490829,https://myntfintech.testrail.io/index.php?/cases/view/490829,Validate that user able to received SMS after downgrade L3 Local mobtel using CRP management,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490838,https://myntfintech.testrail.io/index.php?/cases/view/490838,Validate that the Images and information is correct upon approved,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,Low,6/4/2025 6:17 AM,Low,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490846,https://myntfintech.testrail.io/index.php?/cases/view/490846,Verify if User can Approve Pending Application without editing the application form,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,High,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490848,https://myntfintech.testrail.io/index.php?/cases/view/490848,Verify if User can Reject Pending Application without editing the application form,Automatable,Stratpoint,Stratpoint,Low,Not Started,KYC Risk Profiling,High,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C490858,https://myntfintech.testrail.io/index.php?/cases/view/490858,Verify if user can view and approved L1-L3 Gcash Jr. kids Application in Queue Jr.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490859,https://myntfintech.testrail.io/index.php?/cases/view/490859,Verify the details of recently approved L1-L3 Gcash Jr. kids Application are correct.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,High,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490862,https://myntfintech.testrail.io/index.php?/cases/view/490862,Verify if user can view and approved L3-L3 Gcash Jr. Kids Application in Queue Jr.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490863,https://myntfintech.testrail.io/index.php?/cases/view/490863,Verify the details of recently approved L3-L3 Gcash Jr. kids Application are correct.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,High,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490866,https://myntfintech.testrail.io/index.php?/cases/view/490866,Verify if user can view and approved L1-L3 Gcash Jr. Teens Application in Queue Jr.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490867,https://myntfintech.testrail.io/index.php?/cases/view/490867,Verify the details of recently approved L1-L3 Gcash Jr. Teens Application are correct.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,High,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490870,https://myntfintech.testrail.io/index.php?/cases/view/490870,Verify if user can view and approved L3-L3 Gcash Jr. Teens Application in Queue Jr.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490871,https://myntfintech.testrail.io/index.php?/cases/view/490871,Verify the details of recently approved L3-L3 Gcash Jr. Teens Application are correct.,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,High,6/4/2025 6:17 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490875,https://myntfintech.testrail.io/index.php?/cases/view/490875,Verify that 08 and 63-8 DITO Mobtel are searchable in Tracking CRP Management and Account Maintenance in Jarvis Portal,Automatable,MYNT,Mynt,Low,,KYC Risk Profiling,High,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490904,https://myntfintech.testrail.io/index.php?/cases/view/490904,[BE] Validate if the user will able to downgrade mobtel prior the DBscript change,Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Low,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490905,https://myntfintech.testrail.io/index.php?/cases/view/490905,"[BE] Validate that for Local L3, will able to replicate the downgrade issue prior the DBscript change",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490906,https://myntfintech.testrail.io/index.php?/cases/view/490906,"[BE] Validate that for GI L3, will able to replicate the downgrade issue prior the DBscript change",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490907,https://myntfintech.testrail.io/index.php?/cases/view/490907,"[BE] Validate that for Junior Kids L3, will able to replicate the downgrade issue prior the DBscript change",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490908,https://myntfintech.testrail.io/index.php?/cases/view/490908,"[BE] Validate that for Junior Teens L3, will able to replicate the downgrade issue prior the DBscript change",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490909,https://myntfintech.testrail.io/index.php?/cases/view/490909,"[BE] Validate that for Local L3 which could not be downgraded, when the script is run, then the mobtel will revert to L1 via Batch Engine",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490914,https://myntfintech.testrail.io/index.php?/cases/view/490914,[BE] Validate that all upgraded L3 can be downgraded to L1 using the batch downgrade w/o the need to run the script,Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490915,https://myntfintech.testrail.io/index.php?/cases/view/490915,"[BE] Validate that for Local L3 which could not be downgraded, when the script is run, then the mobtel will revert to L1 via CRP Managment",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C490916,https://myntfintech.testrail.io/index.php?/cases/view/490916,"[BE] Validate that for GI L3 which could not be downgraded, when the script is run, then the mobtel will revert to L1 via CRP Managment",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490917,https://myntfintech.testrail.io/index.php?/cases/view/490917,"[BE] Validate that for Junior Kids L3 which could not be downgraded, when the script is run, then the mobtel will revert to L1 via CRP Management",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490918,https://myntfintech.testrail.io/index.php?/cases/view/490918,"[BE] Validate that for Junior Kids teens which could not be downgraded, when the script is run, then the mobtel will revert to L1 via CRP Management",Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,Low,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C490919,https://myntfintech.testrail.io/index.php?/cases/view/490919,[BE] Validate that all downgraded account can be upgraded to L3 via CRP Management,Automatable,Stratpoint,Stratpoint,Low,,KYC Application Dispositioning,High,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C491000,https://myntfintech.testrail.io/index.php?/cases/view/491000,TRIBE14-8862[BE] 001[New ID List] Verify that the new ID Type Special Resident Retiree's Visa (SRRV) is visible in the ID Type dropdown in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491001,https://myntfintech.testrail.io/index.php?/cases/view/491001,TRIBE14-8862[BE] 002[New ID List] Verify that the new ID Type Alien Employment Permit is visible in the ID Type dropdown in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491002,https://myntfintech.testrail.io/index.php?/cases/view/491002,TRIBE14-8862[BE] 003[New ID List] Verify that the new ID Type Diplomat ID is visible in the ID Type dropdown in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491003,https://myntfintech.testrail.io/index.php?/cases/view/491003,TRIBE14-8862[BE] 004[ID Type] Verify that the Special Resident Retiree's Visa (SRRV) ID Type is visible in Trackings Page via L1-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491004,https://myntfintech.testrail.io/index.php?/cases/view/491004,TRIBE14-8862[BE] 005[ID Type] Verify that the Alien Employment Permit ID Type is visible in Trackings Page via L1-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491005,https://myntfintech.testrail.io/index.php?/cases/view/491005,TRIBE14-8862[BE] 006[ID Type] Verify that the Diplomat ID ID Type is visible in Trackings Page via L1-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491006,https://myntfintech.testrail.io/index.php?/cases/view/491006,TRIBE14-8862[BE] 007[ID Type] Verify that the Special Resident Retiree's Visa (SRRV) ID Type is visible in Trackings Page via L3-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491007,https://myntfintech.testrail.io/index.php?/cases/view/491007,TRIBE14-8862[BE] 008[ID Type] Verify that the Alien Employment Permit ID Type is visible in Trackings Page via L3-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491008,https://myntfintech.testrail.io/index.php?/cases/view/491008,TRIBE14-8862[BE] 009[ID Type] Verify that the Diplomat ID ID Type is visible in Trackings Page via L3-L3 in CRP Management,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491018,https://myntfintech.testrail.io/index.php?/cases/view/491018,TRIBE14-8862[BE] 019[Batch Modify Approved] Verify that the Jarvis user can approve uploaded Batch Modify CSV with no error for Special Resident Retiree's Visa (SRRV),Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491019,https://myntfintech.testrail.io/index.php?/cases/view/491019,TRIBE14-8862[BE] 020[Batch Modify Approved] Verify that the Jarvis user can approve uploaded Batch Modify CSV with no error for Alien Employment Permit,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491020,https://myntfintech.testrail.io/index.php?/cases/view/491020,TRIBE14-8862[BE] 021[Batch Modify Approved] Verify that the Jarvis user can approve uploaded Batch Modify CSV with no error for Diplomat ID,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491021,https://myntfintech.testrail.io/index.php?/cases/view/491021,TRIBE14-8862[BE] 022[ID Type All Jarvis Queues] Verify that the created profiles display Special Resident Retiree's Visa (SRRV) ID Type and are visible across all relevant Jarvis queues for the Jarvis user,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491022,https://myntfintech.testrail.io/index.php?/cases/view/491022,TRIBE14-8862[BE] 023[ID Type All Jarvis Queues] Verify that the created profiles display Alien Employment Permit ID Type and are visible across all relevant Jarvis queues for the Jarvis use,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491023,https://myntfintech.testrail.io/index.php?/cases/view/491023,TRIBE14-8862[BE] 024[ID Type All Jarvis Queues] Verify that the created profiles display Diplomat ID ID Type and are visible across all relevant Jarvis queues for the Jarvis use,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491024,https://myntfintech.testrail.io/index.php?/cases/view/491024,TRIBE14-8862[BE] 025[ID Type All Jarvis Queues] Verify that the modified profiles display Special Resident Retiree's Visa (SRRV) ID Type and are visible across all relevant Jarvis queues for the Jarvis use,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491025,https://myntfintech.testrail.io/index.php?/cases/view/491025,TRIBE14-8862[BE] 026[ID Type All Jarvis Queues] Verify that the modified profiles display Alien Employment Permit ID Type and are visible across all relevant Jarvis queues for the Jarvis use,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491026,https://myntfintech.testrail.io/index.php?/cases/view/491026,TRIBE14-8862[BE] 027[ID Type All Jarvis Queues] Verify that the modified profiles display Diplomat ID ID Type and are visible across all relevant Jarvis queues for the Jarvis use,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491027,https://myntfintech.testrail.io/index.php?/cases/view/491027,TRIBE14-8862[BE] 029[id_Name] Verify that the id_name SRRV uploaded in the CSV file reflect the corresponding Special Resident Retiree's Visa (SRRV) ID values in Jarvis application,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491028,https://myntfintech.testrail.io/index.php?/cases/view/491028,TRIBE14-8862[BE] 030[id_Name] Verify that the id_name AEP uploaded in the CSV file reflect the corresponding Alien Employment Permit values in Jarvis application,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491029,https://myntfintech.testrail.io/index.php?/cases/view/491029,TRIBE14-8862[BE] 031[id_Name] Verify that the id_name Diplomat ID uploaded in the CSV file reflect the corresponding Diplomat ID values in Jarvis application,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491030,https://myntfintech.testrail.io/index.php?/cases/view/491030,"TRIBE14-8862[BE] 032[id_Name] Verify that Batch function can be able to accept the CSV file if the id_name SRRV is in upper case, lower case or mixed case",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491031,https://myntfintech.testrail.io/index.php?/cases/view/491031,"TRIBE14-8862[BE] 033[id_Name] Verify that Batch function can be able to accept the CSV file if the id_name AEP is in upper case, lower case or mixed case",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491032,https://myntfintech.testrail.io/index.php?/cases/view/491032,"TRIBE14-8862[BE] 034[id_Name] Verify that Batch function can be able to accept the CSV file if the id_name Diplomat ID is in upper case, lower case or mixed case",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491033,https://myntfintech.testrail.io/index.php?/cases/view/491033,TRIBE14-8862[BE] 035[id_Name] Verify that Batch function can be able to trim white spaces before and after the id_name SRRV and accept it,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491034,https://myntfintech.testrail.io/index.php?/cases/view/491034,TRIBE14-8862[BE] 036[id_Name] Verify that Batch function can be able to trim white spaces before and after the id_name AEP and accept it,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491035,https://myntfintech.testrail.io/index.php?/cases/view/491035,TRIBE14-8862[BE] 037[id_Name] Verify that Batch function can be able to trim white spaces before and after the id_name Diplomat ID and accept it,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491638,https://myntfintech.testrail.io/index.php?/cases/view/491638,TRIBE14-15207[AND] 001[National ID (Paper type)/Digital National ID PCN][Local]Verify that the system automatically add formatting dashes upon manually inputting PCN number in PhilSys Card Number text field in PSA National ID,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491639,https://myntfintech.testrail.io/index.php?/cases/view/491639,TRIBE14-15207[AND] 002[ePhil ID Paper type PCN][Local]Verify that the system automatically add formatting dashes upon copy and pasting PCN number in PhilSys Card Number textfield in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491640,https://myntfintech.testrail.io/index.php?/cases/view/491640,TRIBE14-15207[AND] 003[National ID (Paper type)/Digital National ID PCN][International]Verify that the system automatically add formatting dashes upon manually inputting PCN number in PhilSys Card Number text field in PSA National ID,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491641,https://myntfintech.testrail.io/index.php?/cases/view/491641,TRIBE14-15207[AND] 004[ePhil ID Paper type PCN][International]Verify that the system automatically add formatting dashes upon copy and pasting PCN number in PhilSys Card Number textfield in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491654,https://myntfintech.testrail.io/index.php?/cases/view/491654,TRIBE14-15207[AND] 017[ePhil ID Paper type/Digital National ID PCN][Local]Verify that the user will not be able to proceed and will display an inline error message after submit PCN number is blank in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491655,https://myntfintech.testrail.io/index.php?/cases/view/491655,TRIBE14-15207[IOS] 018[National ID (Paper type)/Digital National ID PCN][Local]Verify that the system automatically add formatting dashes upon manually inputting PCN number in PhilSys Card Number text field in PSA National ID,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491656,https://myntfintech.testrail.io/index.php?/cases/view/491656,TRIBE14-15207[IOS] 019[ePhil ID Paper type PCN][Local]Verify that the system automatically add formatting dashes upon copy and pasting PCN number in PhilSys Card Number textfield in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491657,https://myntfintech.testrail.io/index.php?/cases/view/491657,TRIBE14-15207[IOS] 020[National ID (Paper type)/Digital National ID PCN][International]Verify that the system automatically add formatting dashes upon manually inputting PCN number in PhilSys Card Number text field in PSA National ID,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491658,https://myntfintech.testrail.io/index.php?/cases/view/491658,TRIBE14-15207[IOS] 021[ePhil ID Paper type PCN][International]Verify that the system automatically add formatting dashes upon copy and pasting PCN number in PhilSys Card Number textfield in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491659,https://myntfintech.testrail.io/index.php?/cases/view/491659,"TRIBE14-15207[IOS] 022[ePhil ID Paper type PCN][Local][EKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491660,https://myntfintech.testrail.io/index.php?/cases/view/491660,"TRIBE14-15207[IOS] 023[Digital National ID PCN][Local][EKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491661,https://myntfintech.testrail.io/index.php?/cases/view/491661,"TRIBE14-15207[IOS] 024[ePhil ID Paper type PCN][International][EKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491662,https://myntfintech.testrail.io/index.php?/cases/view/491662,"TRIBE14-15207[IOS] 025[Digital National ID PCN][International][EKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491663,https://myntfintech.testrail.io/index.php?/cases/view/491663,"TRIBE14-15207[IOS] 026[ePhil ID Paper type PCN][Local][REKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491664,https://myntfintech.testrail.io/index.php?/cases/view/491664,"TRIBE14-15207[IOS] 027[Digital National ID PCN][Local][REKYC]Verify that after successful KYC application, PCN Number with dash will display across all relevant queues in Jarvis Portal.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491665,https://myntfintech.testrail.io/index.php?/cases/view/491665,"TRIBE14-15207[IOS] 028[ePhil ID Paper type PCN][Local]Verify that after successful KYC application, PCN Number with dash will display in jarvisDB.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Low,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491666,https://myntfintech.testrail.io/index.php?/cases/view/491666,"TRIBE14-15207[IOS] 029[Digital National ID PCN][Local]Verify that after successful KYC application, PCN Number with dash will display in jarvisDB.",Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Low,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491667,https://myntfintech.testrail.io/index.php?/cases/view/491667,TRIBE14-15207[IOS] 030[more than 16 digits][Local]Verify that the application is auto rejected when the user inputs PCN number more than 16 digits on PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491668,https://myntfintech.testrail.io/index.php?/cases/view/491668,TRIBE14-15207[IOS] 031[less than 16 digits][Local]Verify that the application is auto rejected when the user inputs PCN number ess than 16 digits on PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491669,https://myntfintech.testrail.io/index.php?/cases/view/491669,TRIBE14-15207[IOS] 032[special characters][Local] Verify that the application is auto rejected when the user inputs PCN number special characters on PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491670,https://myntfintech.testrail.io/index.php?/cases/view/491670,TRIBE14-15207[IOS] 033[alphanumeric][Local] Verify that the application is auto rejected when the user inputs PCN number alphanumeric on PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C491671,https://myntfintech.testrail.io/index.php?/cases/view/491671,TRIBE14-15207[IOS] 034[ePhil ID Paper type/Digital National ID PCN][Local]Verify that the user will not be able to proceed and will display an inline error message after submit PCN number is blank in PSA National ID Authentication screen,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/4/2025 6:17 AM,High,eKYC,New,TRIBE14 | GRCX,"BE Regression
+FE Regression
+Pre-Test
+Post-Test",web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C670737,https://myntfintech.testrail.io/index.php?/cases/view/670737,[WEB] 002Verify that User is able to view the approved Batch Create file in different Modules with single entry and valid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670739,https://myntfintech.testrail.io/index.php?/cases/view/670739,[WEB] 004Verify that User is able to view the approved Batch Create file in different Modules with multiple entry and valid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670741,https://myntfintech.testrail.io/index.php?/cases/view/670741,[WEB] 006Verify that User is able to view the approved Batch Create file in different Modules with single entry and invalid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670743,https://myntfintech.testrail.io/index.php?/cases/view/670743,[WEB] 008Verify that User is able to view the approved Batch Create file in different Modules with multiple entry and invalid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670745,https://myntfintech.testrail.io/index.php?/cases/view/670745,[WEB] 010Verify that User is able to view the approved Batch Create file in different Modules with multiple entry and invalid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670747,https://myntfintech.testrail.io/index.php?/cases/view/670747,[WEB] 012Verify that User is able to view the approved Batch Create file in different Modules with combination of valid and invalid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670754,https://myntfintech.testrail.io/index.php?/cases/view/670754,[WEB] 019Verify that User is able to view the approved Batch Modify file in different Modules with single entry and valid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670756,https://myntfintech.testrail.io/index.php?/cases/view/670756,[WEB] 021Verify that User is able to view the approved Batch Modify file in different Modules with multiple entry and valid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670758,https://myntfintech.testrail.io/index.php?/cases/view/670758,[WEB] 023Verify that User is able to view the approved Batch Modify file in different Modules with single entry and invalid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670760,https://myntfintech.testrail.io/index.php?/cases/view/670760,[WEB] 025Verify that User is able to view the approved Batch Modify file in different Modules with multiple entry and invalid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670762,https://myntfintech.testrail.io/index.php?/cases/view/670762,[WEB] 027Verify that User is able to view the approved Batch Modify file in different Modules with multiple entry and invalid ID,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670764,https://myntfintech.testrail.io/index.php?/cases/view/670764,[WEB] 029Verify that User is able to view the approved Batch Modify file in different Modules with combination of valid and invalid ID names,Automatable,Stratpoint,Stratpoint,High,,KYC Application Dispositioning,High,8/7/2025 1:27 PM,Medium,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670817,https://myntfintech.testrail.io/index.php?/cases/view/670817,[WEB] 002Verify that User is able to view the approved Batch Create file in different Modules with all lowercase in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670819,https://myntfintech.testrail.io/index.php?/cases/view/670819,[WEB] 004Verify that User is able to view the approved Batch Create file in different Modules with all uppercase in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670821,https://myntfintech.testrail.io/index.php?/cases/view/670821,[WEB] 006Verify that User is able to view the approved Batch Create file in different Modules with combination of both or camel case in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670823,https://myntfintech.testrail.io/index.php?/cases/view/670823,[WEB] 008Verify that User is able to view the approved Batch Create file and trimmed off the inputted spaces before ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670825,https://myntfintech.testrail.io/index.php?/cases/view/670825,[WEB] 010Verify that User is able to view the approved Batch Create file and trimmed off the inputted spaces after ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670827,https://myntfintech.testrail.io/index.php?/cases/view/670827,[WEB] 012Verify that User is able to view the approved Batch Create file and trimmed off the inputted spaces before and after ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670834,https://myntfintech.testrail.io/index.php?/cases/view/670834,[WEB] 019Verify that User is able to view the approved Batch modify file in different Modules with all lowercase in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670836,https://myntfintech.testrail.io/index.php?/cases/view/670836,[WEB] 021Verify that User is able to view the approved Batch modify file in different Modules with all uppercase in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670838,https://myntfintech.testrail.io/index.php?/cases/view/670838,[WEB] 023Verify that User is able to view the approved Batch modify file in different Modules with combination of both or camel case in ID name Field,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670840,https://myntfintech.testrail.io/index.php?/cases/view/670840,[WEB] 025Verify that User is able to view the approved Batch modify file and trimmed off the inputted spaces before ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670842,https://myntfintech.testrail.io/index.php?/cases/view/670842,[WEB] 027Verify that User is able to view the approved Batch modify file and trimmed off the inputted spaces after ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C670844,https://myntfintech.testrail.io/index.php?/cases/view/670844,[WEB] 029Verify that User is able to view the approved Batch modify file and trimmed off the inputted spaces before and after ID name,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,High,8/7/2025 2:39 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C963761,https://myntfintech.testrail.io/index.php?/cases/view/963761,[GRC] [Sanity Testing] [CRP Management] [Maker] [Low Risk] Verify Handling after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:37 AM
+C963762,https://myntfintech.testrail.io/index.php?/cases/view/963762,[GRC] [Sanity Testing] [CRP Management] [Maker] [Low Risk] Verify Notification after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963763,https://myntfintech.testrail.io/index.php?/cases/view/963763,[GRC] [Sanity Testing] [CRP Management] [Maker] [Normal Risk] Verify Handling after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963764,https://myntfintech.testrail.io/index.php?/cases/view/963764,[GRC] [Sanity Testing] [CRP Management] [Maker] [Normal Risk] Verify Notification after user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963765,https://myntfintech.testrail.io/index.php?/cases/view/963765,[GRC] [Sanity Testing] [CRP Management] [Maker] [High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963766,https://myntfintech.testrail.io/index.php?/cases/view/963766,[GRC] [Sanity Testing] [CRP Management] [Maker] [High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963767,https://myntfintech.testrail.io/index.php?/cases/view/963767,[GRC] [Sanity Testing] [CRP Management] [Maker] [Very High Risk] Verify if user can Create CRP L3 with All Fields,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963768,https://myntfintech.testrail.io/index.php?/cases/view/963768,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify if User can Approve Pending New CRP Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963769,https://myntfintech.testrail.io/index.php?/cases/view/963769,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify SMS Notification for Approved Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:38 AM
+C963770,https://myntfintech.testrail.io/index.php?/cases/view/963770,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify if User can Approve Pending Modify CRP Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963771,https://myntfintech.testrail.io/index.php?/cases/view/963771,[GRC] [Sanity Testing] [Queue Portal] [B2C Approver] Verify SMS Notification for Approved Application,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963803,https://myntfintech.testrail.io/index.php?/cases/view/963803,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Create a KYC 9.1 CRP,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963804,https://myntfintech.testrail.io/index.php?/cases/view/963804,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify KYC 9.1 CRP Details in Queue Portal and Duplicate Suggestion will be displayed,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963805,https://myntfintech.testrail.io/index.php?/cases/view/963805,[GRC] [Sanity Testing][KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify On-Going and Existing Application Details in Duplicate Suggestion Window,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963806,https://myntfintech.testrail.io/index.php?/cases/view/963806,[GRC] [Sanity Testing] [KYC9.1 to KYC9.1][KYC Leader] [Queue Portal] [Direct Link] Link KYC 9.1 to KYC 9.1,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963807,https://myntfintech.testrail.io/index.php?/cases/view/963807,"[GRC] [Sanity Testing] [KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify Newly Linked CRP Details in Tracking Page, QA View, QA Result, CRP Management and Account Maintenance",Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963808,https://myntfintech.testrail.io/index.php?/cases/view/963808,"[GRC] [Sanity Testing] [KYC9.1 to KYC9.1] [KYC Leader] [Queue Portal] [Direct Link] Verify if the details of Reference Tab and Wallet Tab of newly linked CRP in Tracking Page, QA View, QA Result, CRP Mngt and Acct. Maintenance",Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Low,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963814,https://myntfintech.testrail.io/index.php?/cases/view/963814,[GRC] [Sanity Testing] [MTC-TRO] Verify that User is able to Approve Change Wallet Status Request,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963815,https://myntfintech.testrail.io/index.php?/cases/view/963815,[GRC] [Sanity Testing] [Account Maintenance] [L1 Maker] Verify if User can Change Wallet Status of L3 Mobtel,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:39 AM
+C963816,https://myntfintech.testrail.io/index.php?/cases/view/963816,[GRC] [Sanity Testing] [Team Leader] Verify that User is able to Approve Change Wallet Status Request,Automatable,Stratpoint,Stratpoint,Low,,KYC Risk Profiling,Medium,10/15/2025 5:58 AM,Medium,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Pre-Test
+Post-Test",web,web,web,QA Automation 5,11/28/2025 3:40 AM
+C92523,https://myntfintech.testrail.io/index.php?/cases/view/92523,TRUSTSECUR-DNFBP-0002[Cycle 1][RTS][Normal Risk][L1-L3] Verify if the submitted application has Realtime Sanction Result of LOW and Risk Profile Result of NORMAL in Jarvis Portal,Automatable,MYNT,Mynt,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Low,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C92524,https://myntfintech.testrail.io/index.php?/cases/view/92524,TRUSTSECUR-DNFBP-0003[Cycle 1][RTS][Normal Risk][L1-L3] Verify if Normal Risk application and the RTS risklevel is correct thru Inspect > Network,Automatable,MYNT,Mynt,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Medium,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C92526,https://myntfintech.testrail.io/index.php?/cases/view/92526,TRUSTSECUR-DNFBP-0005[Cycle 1][RTS][Low Risk][GCash Jr] Verify if the submitted application has Realtime Sanction Result of LOW and Risk Profile Result of LOW in Jarvis Portal,Automatable,Stratpoint,Stratpoint,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Low,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C92527,https://myntfintech.testrail.io/index.php?/cases/view/92527,TRUSTSECUR-DNFBP-0006[Cycle 1][RTS][Low Risk][GCash Jr] Verify if Low Risk application and the RTS risklevel is correct thru Inspect > Network,Automatable,Stratpoint,Stratpoint,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Low,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C92529,https://myntfintech.testrail.io/index.php?/cases/view/92529,TRUSTSECUR-DNFBP-0008[Cycle 1][RTS][High Risk][GCash International] Verify if the submitted application has Realtime Sanction Result of LOW and Risk Profile Result of HIGH in Jarvis Portal,Automatable,Stratpoint,Stratpoint,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Low,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C92530,https://myntfintech.testrail.io/index.php?/cases/view/92530,TRUSTSECUR-DNFBP-0009[Cycle 1][RTS][High Risk][GCash International] Verify if High Risk application and the RTS risklevel is correct thru Inspect > Network,Automatable,Stratpoint,Stratpoint,Medium,,Real Time Sanction Screening,Medium,1/30/2025 12:21 PM,Medium,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C117491,https://myntfintech.testrail.io/index.php?/cases/view/117491,Regression-AML-0010[BE Reg][GCash International] Verify that KYC attempt of PEP is not auto rejected,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C117493,https://myntfintech.testrail.io/index.php?/cases/view/117493,Regression-AML-0012[BE Reg][GCash International] Verify that Risk Profile Result of PEP KYC attempt should not be N/A,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C117495,https://myntfintech.testrail.io/index.php?/cases/view/117495,Regression-AML-0014[BE Reg][GCash International] Verify that RTS_LOW constant value on apbizprod from NO HIT has been updated to LOW,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C117501,https://myntfintech.testrail.io/index.php?/cases/view/117501,Regression-AML-0020[BE Reg][GCash Jr] Verify that RTS should display totalScore of 20 with a riskLevel of LOW if KYC attempot is from PEP_Related,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:32 AM
+C117504,https://myntfintech.testrail.io/index.php?/cases/view/117504,Regression-AML-0023[BE Reg][EDD] Verify that KYC attempt of RCA (Relative or Close Associate) reflects correctly in Jarvis,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:33 AM
+C117505,https://myntfintech.testrail.io/index.php?/cases/view/117505,Regression-AML-0024[BE Reg][EDD] Verify that KYC attempt of RCA (Relative or Close Associate) is not auto rejected,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:33 AM
+C117506,https://myntfintech.testrail.io/index.php?/cases/view/117506,Regression-AML-0025[BE Reg][EDD] Verify that Realtime Sanction Result value of RCA (Relative or Close Associate) KYC attempt is LOW,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:33 AM
+C117507,https://myntfintech.testrail.io/index.php?/cases/view/117507,Regression-AML-0026[BE Reg][EDD] Verify that Risk Profile Result of RCA (Relative or Close Associate) KYC attempt should not be N/A,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:33 AM
+C117509,https://myntfintech.testrail.io/index.php?/cases/view/117509,Regression-AML-0028[BE Reg][EDD] Verify that RTS_LOW constant value on apbizprod from NO HIT has been updated to LOW,Automatable,Stratpoint,Stratpoint,,,Real Time Sanction Screening,Medium,2/7/2025 3:59 AM,High,AML Compliance Tool,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 5,11/28/2025 3:33 AM
+C487548,https://myntfintech.testrail.io/index.php?/cases/view/487548,TRIBE14-15174[BE][DRIVERS LICENSE]002[ACL]Validate that users local mobtel application using DRIVERS LICENSE will be auto-linked when all criteria are met.,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/3/2025 7:19 AM,Medium,eKYC,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C487549,https://myntfintech.testrail.io/index.php?/cases/view/487549,TRIBE14-15174[BE][DRIVERS LICENSE][L3]002[ACL]Validate that users local mobtel application using DRIVERS LICENSE will be auto-approved when all criteria are met.,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/3/2025 7:19 AM,Medium,eKYC,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C487550,https://myntfintech.testrail.io/index.php?/cases/view/487550,TRIBE14-15173[BE][NATIONAL ID(CARD TYPE)]002[ACL]Validate that users local mobtel application using NATIONAL ID(CARD TYPE) will be auto-linked when all criteria are met.,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/3/2025 7:19 AM,Medium,eKYC,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C487551,https://myntfintech.testrail.io/index.php?/cases/view/487551,TRIBE14-15173[BE][PASSPORT]002[ACL]Validate that users local mobtel application using PASSPORT will be auto-linked when all criteria are met.,Automatable,MYNT,Mynt,Low,,KYC Application Dispositioning,Medium,6/3/2025 7:19 AM,Medium,eKYC,New,TRIBE14 | GRCX,BE Regression,web,web,web,Alexander Jabson,8/13/2025 10:36 AM
+C671689,https://myntfintech.testrail.io/index.php?/cases/view/671689,[WEB] 043Validate that the following fields are disabled for editing in the CRP Management when a Jarvis Admin is logged in,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,Medium,8/8/2025 12:55 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C671690,https://myntfintech.testrail.io/index.php?/cases/view/671690,[WEB] 044Validate that the following fields are disabled for editing in the CRP Management when a QA Maker is logged in,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,Medium,8/8/2025 12:55 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C671691,https://myntfintech.testrail.io/index.php?/cases/view/671691,[WEB] 045Validate that the following fields are disabled for editing in the CRP Management when a KYC Leads Maker (Organic) is logged in,Automatable,Stratpoint,Stratpoint,Medium,,KYC Application Dispositioning,Medium,8/8/2025 12:55 PM,High,KYC Manual,New,TRIBE14 | GRCX,BE Regression,web,web,web,QA Automation 6,4/29/2026 3:16 AM
+C1097771,https://myntfintech.testrail.io/index.php?/cases/view/1097771,[Jarvis] 001Verify that the new 9 ID Types appears in the dropdown list when a KYC agent creates a profile on CRP Management,Automatable,Stratpoint,Stratpoint,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1097772,https://myntfintech.testrail.io/index.php?/cases/view/1097772,[Jarvis] 002Verify that the new 9 ID Types appears in the dropdown list when a KYC agent Modifies a profile on CRP Management,Automatable,Stratpoint,Stratpoint,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1097773,https://myntfintech.testrail.io/index.php?/cases/view/1097773,[Jarvis] 003Verify that all ID Types are spelled correctly and follows the correct capitalization when a KYC agent creates a profile on CRP Management,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097774,https://myntfintech.testrail.io/index.php?/cases/view/1097774,[Jarvis] 004Verify that all ID Types are spelled correctly and follows the correct capitalization when a KYC agent Modifies a profile on CRP Management,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097775,https://myntfintech.testrail.io/index.php?/cases/view/1097775,[Jarvis] 005Verify that the dropdown does not display duplicate ID Types upon CRP Creation,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097776,https://myntfintech.testrail.io/index.php?/cases/view/1097776,[Jarvis] 006Verify that the dropdown does not display duplicate ID Types upon CRP Modification,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097777,https://myntfintech.testrail.io/index.php?/cases/view/1097777,[Jarvis] 007Verify that the system successfully saves the selected ID Type upon L1-L3 CRP Creation,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097778,https://myntfintech.testrail.io/index.php?/cases/view/1097778,[Jarvis] 008Verify that the system successfully displays the selected ID type in Queue-Portal page when the application was already submitted for approval.,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097779,https://myntfintech.testrail.io/index.php?/cases/view/1097779,"[Jarvis] 009Verify that reopening the newly created application shows the correct selected ID Type in CRP Management, QA View, Trackings, and Account Maintenance.",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097780,https://myntfintech.testrail.io/index.php?/cases/view/1097780,[Jarvis] 010Verify that the agent can modify an existing application and change the ID Type to any of the new ID Types.,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097781,https://myntfintech.testrail.io/index.php?/cases/view/1097781,[Jarvis] 011Verify that the system saves the updated ID Type when the agent submits the modifications.,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097782,https://myntfintech.testrail.io/index.php?/cases/view/1097782,[Jarvis] 012Verify that the system successfully displays the selected ID type in Queue-Portal (On-going Application) page when the modified application was already submitted for approval.,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1097783,https://myntfintech.testrail.io/index.php?/cases/view/1097783,"[Jarvis] 013Verify that the correct updated ID Type is displayed when viewing the application again in CRP Management, QA View, Trackings, and Account Maintenance.",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/20/2025 10:10 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/20/2025 10:10 AM
+C1098268,https://myntfintech.testrail.io/index.php?/cases/view/1098268,"[Jarvis] 001Verify that when accessing the CRP Manegement in Jarvis as CDI-LEAD MAKER the """"other fields"""" are enabled for editing a profile",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098269,https://myntfintech.testrail.io/index.php?/cases/view/1098269,"[Jarvis] 002Verify that when accessing the CRP Manegement in Jarvis as KYC Leads Maker (Organic) the """"other fields"""" are enabled for editing a profile",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098270,https://myntfintech.testrail.io/index.php?/cases/view/1098270,[Jarvis] 003Verify that saving changes after editing the enabled fields shall be successful,Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098271,https://myntfintech.testrail.io/index.php?/cases/view/1098271,"[Jarvis] 004Verify that the system successfully displays the selected """"other fields"""" in Queue modules (On-going Application) page when the modified application was already submitted for approval.",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098272,https://myntfintech.testrail.io/index.php?/cases/view/1098272,"[Jarvis] 005Verify that as CDI-LEAD MAKER can modify an existing application and change the """"other fields""""",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098273,https://myntfintech.testrail.io/index.php?/cases/view/1098273,"[Jarvis] 006Verify that as KYC Leads Maker (Organic) can modify an existing application and change the """"other fields""""",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098274,https://myntfintech.testrail.io/index.php?/cases/view/1098274,"[Jarvis] 007Verify that the correct updated """"other fields"""" is displayed when viewing the application again in CRP Management, QA View, Trackings, and Account Maintenance.",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098275,https://myntfintech.testrail.io/index.php?/cases/view/1098275,"[Jarvis] 008Verify that the """"other fields"""" shall not be editable on other Jarvis Queues",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1098276,https://myntfintech.testrail.io/index.php?/cases/view/1098276,"[Jarvis] 009Verify that agents other than CDI-LEAD MAKER / KYC Leads Maker (Organic) shall not be able to modify on the """"other fields""""",Automatable,N/A,Mynt,Medium,Not Started,KYC Application Dispositioning,High,11/21/2025 6:46 AM,High,KYC Manual,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Angelo Jet Manarin,11/24/2025 2:36 AM
+C1499678,https://myntfintech.testrail.io/index.php?/cases/view/1499678,[WEB]Validate if Adjustment Approver can upload csv file with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1499679,https://myntfintech.testrail.io/index.php?/cases/view/1499679,[WEB]Validate if Adjustment Approver can’t upload file with more than 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1499680,https://myntfintech.testrail.io/index.php?/cases/view/1499680,[WEB]Validate if Adjustment Approver can download the unbinding request file with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1499681,https://myntfintech.testrail.io/index.php?/cases/view/1499681,[WEB]Validate if Adjustment Operator can upload csv file with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1499682,https://myntfintech.testrail.io/index.php?/cases/view/1499682,[WEB]Validate if Adjustment Operator can’t upload file with more than 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1499683,https://myntfintech.testrail.io/index.php?/cases/view/1499683,[WEB]Validate if Adjustment Operator can download the unbinding request file with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/27/2026 8:02 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1542968,https://myntfintech.testrail.io/index.php?/cases/view/1542968,[WEB]Validate if Adjustment Approver can query all Alipay Merchants,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,2/10/2026 2:54 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1542969,https://myntfintech.testrail.io/index.php?/cases/view/1542969,[WEB]Validate if Adjustment Operator can query all Alipay Merchants,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,2/10/2026 2:54 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1610365,https://myntfintech.testrail.io/index.php?/cases/view/1610365,[WEB]Validate if Unbinding Approver can upload csv file with 500 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,3/3/2026 1:18 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1610366,https://myntfintech.testrail.io/index.php?/cases/view/1610366,[WEB]Validate if Unbinding Operator can upload csv file with 500 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,3/3/2026 1:18 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509701,https://myntfintech.testrail.io/index.php?/cases/view/1509701,[WEB]Validate if user can bind 10 mobtels in Alipay Merchant,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509702,https://myntfintech.testrail.io/index.php?/cases/view/1509702,[WEB]Validate if Unbinding Approver can approve Unbinding Request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509703,https://myntfintech.testrail.io/index.php?/cases/view/1509703,[WEB]Validate if Unbinding Approver can query and open approved unbinding request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509704,https://myntfintech.testrail.io/index.php?/cases/view/1509704,"[WEB]Verify the SMS notification after successful approval by the Unbinding Approver for Alipay merchants with 1,000 mobile numbers.",Automatable,N/A,Mynt,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Christine Toledana,3/3/2026 1:37 AM
+C1509705,https://myntfintech.testrail.io/index.php?/cases/view/1509705,[WEB]Validate if user can bind 10 mobtels in Non-Alipay Merchant,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509706,https://myntfintech.testrail.io/index.php?/cases/view/1509706,[WEB]Validate if Unbinding Approver can approve Unbinding Request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509707,https://myntfintech.testrail.io/index.php?/cases/view/1509707,[WEB]Validate if Unbinding Approver can query and open approved unbinding request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509708,https://myntfintech.testrail.io/index.php?/cases/view/1509708,"[WEB]Verify the SMS notification after successful approval by the Unbinding Approver for Non-Alipay merchants with 1,000 mobile numbers.",Automatable,N/A,Mynt,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Christine Toledana,3/3/2026 1:37 AM
+C1509713,https://myntfintech.testrail.io/index.php?/cases/view/1509713,[WEB]Validate if Unbinding Operator can approve Unbinding Request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509714,https://myntfintech.testrail.io/index.php?/cases/view/1509714,[WEB]Validate if Unbinding Operator can query and open approved unbinding request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509715,https://myntfintech.testrail.io/index.php?/cases/view/1509715,"[WEB]Verify the SMS notification after successful approval by the Unbinding Operator for Alipay merchants with 1,000 mobile numbers.",Automatable,N/A,Mynt,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Christine Toledana,3/3/2026 1:37 AM
+C1509716,https://myntfintech.testrail.io/index.php?/cases/view/1509716,[WEB]Validate if Unbinding Operator can approve Unbinding Request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509717,https://myntfintech.testrail.io/index.php?/cases/view/1509717,[WEB]Validate if Unbinding Operator can query and open approved unbinding request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509718,https://myntfintech.testrail.io/index.php?/cases/view/1509718,"[WEB]Verify the SMS notification after successful approval by the Unbinding Operator for Non-Alipay merchants with 1,000 mobile numbers.",Automatable,N/A,Mynt,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:45 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,Christine Toledana,3/3/2026 1:38 AM
+C1509722,https://myntfintech.testrail.io/index.php?/cases/view/1509722,[WEB]Validate if Unbinding Approver can reject Unbinding Request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509723,https://myntfintech.testrail.io/index.php?/cases/view/1509723,[WEB]Validate if Unbinding Approver can query and open rejected unbinding request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509724,https://myntfintech.testrail.io/index.php?/cases/view/1509724,[WEB]Validate if Unbinding Approver can reject Unbinding Request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509725,https://myntfintech.testrail.io/index.php?/cases/view/1509725,[WEB]Validate if Unbinding Approver can query and open rejected unbinding request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509728,https://myntfintech.testrail.io/index.php?/cases/view/1509728,[WEB]Validate if Unbinding Operator can reject Unbinding Request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509729,https://myntfintech.testrail.io/index.php?/cases/view/1509729,[WEB]Validate if Unbinding Operator can query and open rejected unbinding request of Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509730,https://myntfintech.testrail.io/index.php?/cases/view/1509730,[WEB]Validate if Unbinding Operator can reject Unbinding Request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1509731,https://myntfintech.testrail.io/index.php?/cases/view/1509731,[WEB]Validate if Unbinding Operator can query and open rejected unbinding request of Non-Alipay Merchant with 1000 mobtels,Automatable,Stratpoint,Stratpoint,Low,Not Started,Merchant Modification,Medium,1/28/2026 10:47 AM,Medium,Operations - Agent Empowerment,New,TRIBE14 | GRCX,"BE Regression
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1216347,https://myntfintech.testrail.io/index.php?/cases/view/1216347,[WEB] [DevHisPagination] Verify the pagination behavior if User clicks on selected page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,12/3/2025 10:10 AM,High,Agent Empowerment,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1216348,https://myntfintech.testrail.io/index.php?/cases/view/1216348,[WEB] [DevHisPagination] Verify the first page and last page behavior if User clicks on selected page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,12/3/2025 10:10 AM,High,Agent Empowerment,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1216349,https://myntfintech.testrail.io/index.php?/cases/view/1216349,[WEB] [DevHistPagination] Verify the pagination redirection if User reaches the last page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,12/3/2025 10:10 AM,High,Agent Empowerment,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1543595,https://myntfintech.testrail.io/index.php?/cases/view/1543595,[WEB] [DevHisPagination] Verify the pagination behavior if User clicks on selected page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,2/10/2026 5:59 AM,High,CXM,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1543596,https://myntfintech.testrail.io/index.php?/cases/view/1543596,[WEB] [DevHisPagination] Verify the first page and last page behavior if User clicks on selected page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,2/10/2026 5:59 AM,High,CXM,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
+C1543597,https://myntfintech.testrail.io/index.php?/cases/view/1543597,[WEB] [DevHistPagination] Verify the pagination redirection if User reaches the last page,Automatable,Stratpoint,Stratpoint,Medium,Not Started,Device Linking,Low,2/10/2026 5:59 AM,High,CXM,New,TRIBE14 | GRCX,"FE Regression
+PVT
+Cleanpass Project
+Sprint Testing",web,web,web,QA Automation 6,5/25/2026 3:03 AM
