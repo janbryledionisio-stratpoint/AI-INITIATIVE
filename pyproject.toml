@@ -1,13 +1,25 @@
 [project]
 name = "ai-initiative"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automated test case quality analyzer — fetches from TestRail, filters by general standards, and validates with an LLM"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "bs4>=0.0.2",
-    "openpyxl>=3.1.5",
+    "langchain-anthropic>=0.3",
+    "langchain-google-genai>=2.0",
+    "langchain-ollama>=0.3",
+    "langchain-openai>=0.3",
     "pandas>=3.0.3",
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
+]
+
+[project.scripts]
+ai-initiative = "main:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.4",
 ]
