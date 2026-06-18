@@ -140,7 +140,7 @@ def evaluate_case(tc):
             f"Testing Type = {TESTING_TYPE_MAP.get(tc.get('custom_testing_type'))}"
         )
 
-    if tc.get("custom_automation_status") != 1:
+    if tc.get("custom_automation_status") not in [1, 9]:
         failures.append(
             f"Automation Status = {AUTOMATION_STATUS_MAP.get(tc.get('custom_automation_status'))}"
         )
