@@ -15,10 +15,11 @@ _MAX_WORKERS = 5
 def _build_session() -> requests.Session:
     session = requests.Session()
     retry = Retry(
-        total=3,
+        total=5,
         backoff_factor=1,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=["GET"],
+        respect_retry_after_header=True,
     )
     session.mount("https://", HTTPAdapter(max_retries=retry))
     return session
@@ -58,11 +59,11 @@ def fetch_test_cases(endpoint_csv) -> list[dict]:
     rows = df.to_dict(orient="records")
 
     with ThreadPoolExecutor(max_workers=_MAX_WORKERS) as executor:
-        futures = [
-            executor.submit(_fetch_one, session, row, username, api_key)
+        futures = {
+            executor.submit(_fetch_one, session, row, username, api_key): row
             for row in rows
-        ]
-        results = [f.result() for f in futures]
+        }
+        results = [f.result() for f in as_completed(futures)]
 
     failed = sum(1 for r in results if r["status_code"] is None)
     if failed:

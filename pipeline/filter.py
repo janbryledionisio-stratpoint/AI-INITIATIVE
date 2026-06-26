@@ -1,3 +1,4 @@
+import json
 import logging
 from datetime import datetime
 from pathlib import Path
@@ -7,74 +8,76 @@ from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
 
-AUTOMATABILITY_MAP = {
-    1: "Automated",
-    2: "Automatable",
-    3: "Non-Automatable",
-    4: "To be Determined",
-    5: "For Migration"
-}
+_FIELD_MAPS_PATH = Path(__file__).parent / "field_maps.json"
 
-AUTOMATION_STATUS_MAP = {
-    1: "Not Started",
-    2: "In Progress",
-    3: "Blocked Test Data",
-    4: "Blocked Incomplete Steps",
-    5: "Blocked Access Issues",
-    6: "Obsolete",
-    7: "Blocked Feature Issue",
-    8: "Blocked Others",
-    9: "Reviewed = Passed DOR",
-    10: "Completed",
-    11: "None"
-}
 
-TESTING_TYPE_MAP = {
-    1: "api",
-    2: "api-and-database",
-    3: "api-and-mobile",
-    4: "api-and-logs-checking",
-    5: "api-and-sms",
-    6: "api-and-web",
-    7: "database",
-    8: "database-and-logs-checking",
-    9: "database-and-sms",
-    10: "logs-checking",
-    11: "mobile",
-    12: "mobile-and-database",
-    13: "mobile-and-logs-checking",
-    14: "mobile-and-sms",
-    15: "sms",
-    16: "sms-and-logs-checking",
-    17: "web",
-    18: "web-and-database",
-    19: "web-and-logs-checking",
-    20: "web-and-mobile",
-    21: "web-and-sms"
-}
+def _load_maps() -> tuple[dict, dict]:
+    with open(_FIELD_MAPS_PATH, encoding="utf-8") as f:
+        data = json.load(f)
+    field_maps = {
+        name: {int(k): v for k, v in mapping.items()}
+        for name, mapping in data["field_maps"].items()
+    }
+    retrieval_maps = {
+        name: {int(k): v for k, v in mapping.items() if k != "_comment"}
+        for name, mapping in data["retrieval_fields"].items()
+        if not name.startswith("_")
+    }
+    return field_maps, retrieval_maps
 
-STATUS_MAP = {
-    2: "New",
-    3: "Reviewed",
-    4: "Obsolete",
-    5: "Inactive",
-    6: "Active"
-}
 
-TESTING_PHASE_MAP = {
-    1: "BE Regression",
-    2: "FE Regression",
-    3: "FVT",
-    4: "FE Sanity",
-    5: "BE Sanity",
-    6: "Pre-Test",
-    7: "Post-Test",
-    8: "Cleanpass Project",
-    9: "Sprint Testing",
-    10: "Sanity",
-    11: "Smoke",
-    12: "Regression"
-}
+_field_maps, _retrieval_maps = _load_maps()
+
+AUTOMATABILITY_MAP: dict[int, str] = _field_maps["AUTOMATABILITY_MAP"]
+AUTOMATION_STATUS_MAP: dict[int, str] = _field_maps["AUTOMATION_STATUS_MAP"]
+TESTING_TYPE_MAP: dict[int, str] = _field_maps["TESTING_TYPE_MAP"]
+STATUS_MAP: dict[int, str] = _field_maps["STATUS_MAP"]
+TESTING_PHASE_MAP: dict[int, str] = _field_maps["TESTING_PHASE_MAP"]
+
+TRIBE_MAP: dict[int, str] = _retrieval_maps.get("TRIBE_MAP", {})
+SUB_MODULE_MAP: dict[int, str] = _retrieval_maps.get("SUB_MODULE_MAP", {})
+PRODUCT_MAP: dict[int, str] = _retrieval_maps.get("PRODUCT_MAP", {})
+CAPABILITY_MAP: dict[int, str] = _retrieval_maps.get("CAPABILITY_MAP", {})
+
+# Allowed IDs for each General Standards criterion, derived from the maps so that
+# changes in field_maps.json automatically propagate here.
+_PASS_AUTOMATABILITY: frozenset[int] = frozenset(
+    k for k, v in AUTOMATABILITY_MAP.items()
+    if v in {"Automatable", "To be Determined"}
+)
+_PASS_TESTING_TYPE: frozenset[int] = frozenset(
+    k for k, v in TESTING_TYPE_MAP.items()
+    if v == "web"
+)
+_PASS_AUTOMATION_STATUS: frozenset[int] = frozenset(
+    k for k, v in AUTOMATION_STATUS_MAP.items()
+    if v in {"Not Started", "Reviewed = Passed DOR"}
+)
+_PASS_CASE_STATUS: frozenset[int] = frozenset(
+    k for k, v in STATUS_MAP.items()
+    if v in {"New", "Reviewed", "Active"}
+)
+_PASS_TESTING_PHASE: frozenset[int] = frozenset(
+    k for k, v in TESTING_PHASE_MAP.items()
+    if v in {"BE Regression", "FE Regression", "Regression"}
+)
+
+
+def map_get(mapping: dict[int, str], key: int | None) -> str:
+    """Look up an integer ID in a map; both sides normalized to lowercase for comparison."""
+    if key is None:
+        return ""
+    val = mapping.get(int(key), "")
+    return val
+
+
+def find_by_label(mapping: dict[int, str], label: str) -> int | None:
+    """Reverse lookup by label, case-insensitive (lowercases both actual and expected)."""
+    label_lower = label.lower()
+    for k, v in mapping.items():
+        if v.lower() == label_lower:
+            return k
+    return None
 
 
 def html_to_text(html):
@@ -102,9 +105,9 @@ def transform_case(case_id, tc):
     expected_html = ""
 
     if tc.get("custom_steps_separated"):
-        step_block = tc["custom_steps_separated"][0]
-        steps_html = step_block.get("content", "")
-        expected_html = step_block.get("expected", "")
+        step_blocks = tc["custom_steps_separated"]
+        steps_html = "\n".join(b.get("content", "") for b in step_blocks)
+        expected_html = "\n".join(b.get("expected", "") for b in step_blocks)
 
     return {
         "General Standards": standard_result,
@@ -112,6 +115,9 @@ def transform_case(case_id, tc):
         "Test Case ID": f"C{case_id}",
         "Title": tc.get("title"),
         "Project Initiative": html_to_text(tc.get("custom_project_initiative")),
+        "Tribe": TRIBE_MAP.get(tc.get("custom_case_tribe")),
+        "Product": PRODUCT_MAP.get(tc.get("custom_product_prod")),
+        "Capability": CAPABILITY_MAP.get(tc.get("custom_capability")),
         "Priority": tc.get("priority_id"),
         "Automatability": AUTOMATABILITY_MAP.get(tc.get("custom_automatability")),
         "Automation Status": AUTOMATION_STATUS_MAP.get(tc.get("custom_automation_status")),
@@ -130,22 +136,22 @@ def transform_case(case_id, tc):
 def evaluate_case(tc):
     failures = []
 
-    if tc.get("custom_automatability") not in [2, 4]:
+    if tc.get("custom_automatability") not in _PASS_AUTOMATABILITY:
         failures.append(
             f"Automatability = {AUTOMATABILITY_MAP.get(tc.get('custom_automatability'))}"
         )
 
-    if tc.get("custom_testing_type") != 17:
+    if tc.get("custom_testing_type") not in _PASS_TESTING_TYPE:
         failures.append(
             f"Testing Type = {TESTING_TYPE_MAP.get(tc.get('custom_testing_type'))}"
         )
 
-    if tc.get("custom_automation_status") not in [1, 9]:
+    if tc.get("custom_automation_status") not in _PASS_AUTOMATION_STATUS:
         failures.append(
             f"Automation Status = {AUTOMATION_STATUS_MAP.get(tc.get('custom_automation_status'))}"
         )
 
-    if tc.get("case_status_id") not in [2, 3, 6]:
+    if tc.get("case_status_id") not in _PASS_CASE_STATUS:
         failures.append(
             f"Status = {STATUS_MAP.get(tc.get('case_status_id'))}"
         )
@@ -154,7 +160,7 @@ def evaluate_case(tc):
         failures.append("Priority/Risk is null")
 
     phases = tc.get("custom_testing_phase", [])
-    if not any(phase in [1, 2, 12] for phase in phases):
+    if not any(phase in _PASS_TESTING_PHASE for phase in phases):
         phase_names = [TESTING_PHASE_MAP.get(p, str(p)) for p in phases]
         failures.append(f"Testing Phase = {', '.join(phase_names)}")
 
